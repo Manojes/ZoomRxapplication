@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+  }
+
+.todo{
+    width: 150px;
+    border: 10px solid green;
+    margin: 20px;
+    /* white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden; */
+    word-wrap: break-word;
+}
+
+
+.todoadjust{
+min-height:100px;
+max-height:200px;
+overflow-y:auto;
+}

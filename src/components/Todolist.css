@@ -1,0 +1,10 @@
+.todo-container{
+
+  width: 300px;
+  height: 100%;
+  padding: 50px;
+  border: 10px solid violet;
+  box-sizing: border-box;
+  overflow-y:auto;
+
+}
